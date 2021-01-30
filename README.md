@@ -1,2 +1,18 @@
-# Youtube_India_Videos_Statistics
-Youtube India Videos Trend Analysis
+# Youtube Videos Trend Analysis
+
+## Overview
+
+In this repo you will find the code I used to analyze the data I got from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new) - **Youtube India Video Statistics** using:
+
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
+You will also find some python code to perform basic analysis on the data obtained from the above steps.
+
+## Requirements
+* Jupyter Notebook
+
+
+Thank you for visiting my GitHub profile.
