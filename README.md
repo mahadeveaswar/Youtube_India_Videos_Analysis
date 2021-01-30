@@ -1,5 +1,7 @@
 # Youtube Videos Trend Analysis
 
+![Youtube Logo](./images/youtube.png)
+
 ## Overview
 
 In this repo you will find the code I used to analyze the data I got from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new) - **Youtube India Video Statistics** using:
